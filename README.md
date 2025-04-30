@@ -57,4 +57,4 @@ public class AboutMe {
 
 - 🌱 I’m currently learning [React-native, TypeScript]
 
-![Darlyn0430 github stats](https://github-readme-stats.vercel.app/api?username=Darlyn30&show_icons=true&hide=[%22issues%22])
+![Darlyn0430 github stats](https://github-readme-stats.vercel.app/api?username=Darlyn0430&show_icons=true&hide=[%22issues%22])
